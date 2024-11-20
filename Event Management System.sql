@@ -87,7 +87,7 @@ VALUES (6, 'Mohan', '12397343234', 'mohan@email.com', 'Pune');
 
 INSERT INTO Registrations (Registration_ID, Event_ID, Attendee_ID, Registration_Date, Registration_Amount)
 VALUES (10, 1, 5, '2023-10-07', 100.00);
-Select * from attendees;
+-- Select * from attendees;
 -- Retrieve Event Information
 
 SELECT 
